@@ -72,3 +72,4 @@ gvm-cli tls --hostname $TARGET --xml "<get_tasks/>" > openvas_scan_$TARGET.txt
 
 echo "[+] Full vulnerability scanning automation completed for $TARGET."
 echo "[+] All results are saved in the $OUTPUT_DIR directory."
+#Mr.Error
